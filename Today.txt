@@ -1,240 +1,223 @@
 ----------------------------SALE-TO-BUY--------------------------------
-SYMBOL                   HPG
-close                20950.0
-returns             0.004785
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          DGW
+close       35700.0
+returns    0.047321
+Name: 2023-04-19 09:00:00, dtype: object
 1
 ----------------------------BUY-TO-SALE--------------------------------
-----------------------------BUY----------------------------------
+SYMBOL          TPB
+close       22350.0
+returns   -0.019934
+Name: 2023-04-19 09:00:00, dtype: object
+-1
+SYMBOL          VND
+close       14900.0
+returns   -0.019934
+Name: 2023-04-19 09:00:00, dtype: object
+-1
+----------------------------BOUGHT----------------------------------
 -----------++++-------------
-SYMBOL                   HPG
-close                20950.0
-returns             0.004785
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          HPG
+close       20800.0
+returns   -0.007186
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-04-18 09:00:00    0.0
+2023-04-18 09:00:00   -0.00716
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                  STB
-close               25900.0
-returns                 0.0
-position_summary          1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          STB
+close       25500.0
+returns   -0.015565
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-27 09:00:00    0.015686
+2023-03-27 09:00:00    0.0
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                  ACB
-close               24750.0
-returns            -0.01005
-position_summary          1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          ACB
+close       24400.0
+returns   -0.014242
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-31 09:00:00   -0.01
+2023-03-31 09:00:00   -0.024
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   MBB
-close                18150.0
-returns            -0.005495
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          MBB
+close       18100.0
+returns   -0.002759
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-29 09:00:00   -0.008197
+2023-03-29 09:00:00   -0.010929
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   TCB
-close                29150.0
-returns            -0.010239
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          TCB
+close       29000.0
+returns   -0.005159
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-30 09:00:00    0.052347
+2023-03-30 09:00:00    0.046931
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   HDB
-close                19350.0
-returns             0.002587
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          HDB
+close       19050.0
+returns   -0.015625
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-30 09:00:00    0.034759
+2023-03-30 09:00:00    0.018717
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   SHB
-close                11500.0
-returns            -0.025752
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          SHB
+close       11350.0
+returns   -0.013129
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-22 09:00:00    0.127451
+2023-03-22 09:00:00    0.112745
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   TPB
-close                22800.0
-returns            -0.008734
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          SSI
+close       21300.0
+returns   -0.020907
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-04-13 09:00:00   -0.017241
+2023-03-10 09:00:00    0.075758
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   SSI
-close                21750.0
-returns             0.018562
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          VCI
+close       31450.0
+returns   -0.023567
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-10 09:00:00    0.098485
+2023-03-09 09:00:00    0.123214
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   VND
-close                15200.0
-returns             0.019934
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          FTS
+close       29300.0
+returns    0.015478
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-15 09:00:00    0.016722
+2023-03-14 09:00:00    0.506427
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   VCI
-close                32200.0
-returns             0.033152
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          HCM
+close       25600.0
+returns   -0.028876
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-09 09:00:00    0.15
+2023-03-23 09:00:00    0.044898
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   FTS
-close                28850.0
-returns             0.066273
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          DGW
+close       35700.0
+returns    0.047321
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-14 09:00:00    0.48329
+2023-04-19 09:00:00    0.0
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   HCM
-close                26350.0
-returns             0.030831
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          MWG
+close       40500.0
+returns    0.013673
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-23 09:00:00    0.07551
+2023-04-11 09:00:00   -0.004914
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   MWG
-close                39950.0
-returns             0.002506
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          HAG
+close        8150.0
+returns    0.022333
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-04-11 09:00:00   -0.018428
+2023-04-11 09:00:00    0.042199
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   HAG
-close                 7970.0
-returns            -0.022333
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          GEG
+close       14800.0
+returns   -0.016751
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-04-11 09:00:00    0.019182
+2023-04-04 09:00:00    0.006803
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   GEG
-close                15050.0
-returns             0.003328
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          DXG
+close       12700.0
+returns   -0.027186
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-04-04 09:00:00    0.02381
+2023-03-21 09:00:00    0.099567
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   DXG
-close                13050.0
-returns             0.027186
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          GEX
+close       12800.0
+returns   -0.019343
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-21 09:00:00    0.12987
+2023-03-29 09:00:00    0.024
 Name: close, dtype: float64
 -----------++++-------------
 -----------++++-------------
-SYMBOL                   GEX
-close                13050.0
-returns             0.019343
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          KBC
+close       24300.0
+returns   -0.040328
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1. Return is datetime
-2023-03-29 09:00:00    0.044
+2023-03-28 09:00:00    0.070485
 Name: close, dtype: float64
 -----------++++-------------
------------++++-------------
-SYMBOL                   KBC
-close                25300.0
-returns             0.005946
-position_summary           1
-Name: 2023-04-18 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-28 09:00:00    0.114537
-Name: close, dtype: float64
------------++++-------------
-----------------------------SALE----------------------------------
+----------------------------SOLD----------------------------------
 ----------------------------
-SYMBOL                   NKG
-close                14900.0
-returns             0.006734
-position_summary          -1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          NKG
+close       14650.0
+returns   -0.016921
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1
 ----------------------------
 ----------------------------
-SYMBOL                  HSG
-close               15700.0
-returns             0.00639
-position_summary         -1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          HSG
+close       15300.0
+returns   -0.025808
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1
 ----------------------------
 ----------------------------
-SYMBOL                   FRT
-close                66000.0
-returns             0.007605
-position_summary          -1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          TPB
+close       22350.0
+returns   -0.019934
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1
 ----------------------------
 ----------------------------
-SYMBOL                   DGW
-close                34050.0
-returns             0.041985
-position_summary          -1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          VND
+close       14900.0
+returns   -0.019934
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1
 ----------------------------
 ----------------------------
-SYMBOL                   DIG
-close                17400.0
-returns             0.065305
-position_summary          -1
-Name: 2023-04-18 09:00:00, dtype: object
+SYMBOL          FRT
+close       67600.0
+returns    0.023953
+Name: 2023-04-19 09:00:00, dtype: object
+Current Status is 1
+----------------------------
+----------------------------
+SYMBOL          DIG
+close       17000.0
+returns   -0.023257
+Name: 2023-04-19 09:00:00, dtype: object
 Current Status is 1
 ----------------------------
