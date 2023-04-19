@@ -3,180 +3,143 @@ SYMBOL          DGW
 close       35700.0
 returns    0.047321
 Name: 2023-04-19 09:00:00, dtype: object
-1
 ----------------------------BUY-TO-SALE--------------------------------
 SYMBOL          TPB
 close       22350.0
 returns   -0.019934
 Name: 2023-04-19 09:00:00, dtype: object
--1
+Bought date is 2023-04-18 16:00:00 Return from bought to now is -0.007159904534606206
 SYMBOL          VND
 close       14900.0
 returns   -0.019934
 Name: 2023-04-19 09:00:00, dtype: object
--1
+Bought date is 2023-03-27 16:00:00 Return from bought to now is 0.0
 ----------------------------BOUGHT----------------------------------
 -----------++++-------------
 SYMBOL          HPG
 close       20800.0
 returns   -0.007186
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-04-18 09:00:00   -0.00716
-Name: close, dtype: float64
+Bought date is 2023-04-18 16:00:00 Return from bought to now is -0.007159904534606206
 -----------++++-------------
 -----------++++-------------
 SYMBOL          STB
 close       25500.0
 returns   -0.015565
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-27 09:00:00    0.0
-Name: close, dtype: float64
+Bought date is 2023-03-27 16:00:00 Return from bought to now is 0.0
 -----------++++-------------
 -----------++++-------------
 SYMBOL          ACB
 close       24400.0
 returns   -0.014242
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-31 09:00:00   -0.024
-Name: close, dtype: float64
+Bought date is 2023-03-31 16:00:00 Return from bought to now is -0.024
 -----------++++-------------
 -----------++++-------------
 SYMBOL          MBB
 close       18100.0
 returns   -0.002759
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-29 09:00:00   -0.010929
-Name: close, dtype: float64
+Bought date is 2023-03-29 16:00:00 Return from bought to now is -0.01092896174863388
 -----------++++-------------
 -----------++++-------------
 SYMBOL          TCB
 close       29000.0
 returns   -0.005159
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-30 09:00:00    0.046931
-Name: close, dtype: float64
+Bought date is 2023-03-30 16:00:00 Return from bought to now is 0.04693140794223827
 -----------++++-------------
 -----------++++-------------
 SYMBOL          HDB
 close       19050.0
 returns   -0.015625
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-30 09:00:00    0.018717
-Name: close, dtype: float64
+Bought date is 2023-03-30 16:00:00 Return from bought to now is 0.01871657754010695
 -----------++++-------------
 -----------++++-------------
 SYMBOL          SHB
 close       11350.0
 returns   -0.013129
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-22 09:00:00    0.112745
-Name: close, dtype: float64
+Bought date is 2023-03-22 16:00:00 Return from bought to now is 0.11274509803921569
 -----------++++-------------
 -----------++++-------------
 SYMBOL          SSI
 close       21300.0
 returns   -0.020907
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-10 09:00:00    0.075758
-Name: close, dtype: float64
+Bought date is 2023-03-10 16:00:00 Return from bought to now is 0.07575757575757576
 -----------++++-------------
 -----------++++-------------
 SYMBOL          VCI
 close       31450.0
 returns   -0.023567
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-09 09:00:00    0.123214
-Name: close, dtype: float64
+Bought date is 2023-03-09 16:00:00 Return from bought to now is 0.12321428571428572
 -----------++++-------------
 -----------++++-------------
 SYMBOL          FTS
 close       29300.0
 returns    0.015478
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-14 09:00:00    0.506427
-Name: close, dtype: float64
+Bought date is 2023-03-14 16:00:00 Return from bought to now is 0.506426735218509
 -----------++++-------------
 -----------++++-------------
 SYMBOL          HCM
 close       25600.0
 returns   -0.028876
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-23 09:00:00    0.044898
-Name: close, dtype: float64
+Bought date is 2023-03-23 16:00:00 Return from bought to now is 0.044897959183673466
 -----------++++-------------
 -----------++++-------------
 SYMBOL          DGW
 close       35700.0
 returns    0.047321
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-04-19 09:00:00    0.0
-Name: close, dtype: float64
+Bought date is 2023-04-19 16:00:00 Return from bought to now is 0.0
 -----------++++-------------
 -----------++++-------------
 SYMBOL          MWG
 close       40500.0
 returns    0.013673
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-04-11 09:00:00   -0.004914
-Name: close, dtype: float64
+Bought date is 2023-04-11 16:00:00 Return from bought to now is -0.004914004914004914
 -----------++++-------------
 -----------++++-------------
 SYMBOL          HAG
 close        8150.0
 returns    0.022333
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-04-11 09:00:00    0.042199
-Name: close, dtype: float64
+Bought date is 2023-04-11 16:00:00 Return from bought to now is 0.04219948849104859
 -----------++++-------------
 -----------++++-------------
 SYMBOL          GEG
 close       14800.0
 returns   -0.016751
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-04-04 09:00:00    0.006803
-Name: close, dtype: float64
+Bought date is 2023-04-04 16:00:00 Return from bought to now is 0.006802721088435374
 -----------++++-------------
 -----------++++-------------
 SYMBOL          DXG
 close       12700.0
 returns   -0.027186
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-21 09:00:00    0.099567
-Name: close, dtype: float64
+Bought date is 2023-03-21 16:00:00 Return from bought to now is 0.09956709956709957
 -----------++++-------------
 -----------++++-------------
 SYMBOL          GEX
 close       12800.0
 returns   -0.019343
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-29 09:00:00    0.024
-Name: close, dtype: float64
+Bought date is 2023-03-29 16:00:00 Return from bought to now is 0.024
 -----------++++-------------
 -----------++++-------------
 SYMBOL          KBC
 close       24300.0
 returns   -0.040328
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1. Return is datetime
-2023-03-28 09:00:00    0.070485
-Name: close, dtype: float64
+Bought date is 2023-03-28 16:00:00 Return from bought to now is 0.07048458149779736
 -----------++++-------------
 ----------------------------SOLD----------------------------------
 ----------------------------
@@ -184,40 +147,34 @@ SYMBOL          NKG
 close       14650.0
 returns   -0.016921
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1
 ----------------------------
 ----------------------------
 SYMBOL          HSG
 close       15300.0
 returns   -0.025808
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1
 ----------------------------
 ----------------------------
 SYMBOL          TPB
 close       22350.0
 returns   -0.019934
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1
 ----------------------------
 ----------------------------
 SYMBOL          VND
 close       14900.0
 returns   -0.019934
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1
 ----------------------------
 ----------------------------
 SYMBOL          FRT
 close       67600.0
 returns    0.023953
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1
 ----------------------------
 ----------------------------
 SYMBOL          DIG
 close       17000.0
 returns   -0.023257
 Name: 2023-04-19 09:00:00, dtype: object
-Current Status is 1
 ----------------------------
