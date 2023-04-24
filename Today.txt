@@ -1,180 +1,179 @@
+you are using nologin method, data you access may be limited
 ----------------------------SALE-TO-BUY--------------------------------
-SYMBOL          DGW
-close       35700.0
-returns    0.047321
-Name: 2023-04-19 09:00:00, dtype: object
+SYMBOL          DIG
+close       16900.0
+returns   -0.011765
+Name: 2023-04-24 09:00:00, dtype: object
 ----------------------------BUY-TO-SALE--------------------------------
-SYMBOL          TPB
-close       22350.0
-returns   -0.019934
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-04-18 16:00:00 Return from bought to now is -0.007159904534606206
-SYMBOL          VND
-close       14900.0
-returns   -0.019934
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-27 16:00:00 Return from bought to now is 0.0
+SYMBOL          FRT
+close       63800.0
+returns   -0.027823
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-27 16:00:00 Return from bought to now is 0.00196078431372549
+SYMBOL          MWG
+close       38400.0
+returns   -0.023167
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-29 16:00:00 Return from bought to now is -0.00273224043715847
 ----------------------------BOUGHT----------------------------------
 -----------++++-------------
-SYMBOL          HPG
-close       20800.0
-returns   -0.007186
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-04-18 16:00:00 Return from bought to now is -0.007159904534606206
------------++++-------------
------------++++-------------
 SYMBOL          STB
-close       25500.0
-returns   -0.015565
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-27 16:00:00 Return from bought to now is 0.0
------------++++-------------
------------++++-------------
-SYMBOL          ACB
-close       24400.0
-returns   -0.014242
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-31 16:00:00 Return from bought to now is -0.024
+close       25550.0
+returns   -0.001955
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-27 16:00:00 Return from bought to now is 0.00196078431372549
 -----------++++-------------
 -----------++++-------------
 SYMBOL          MBB
-close       18100.0
-returns   -0.002759
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-29 16:00:00 Return from bought to now is -0.01092896174863388
+close       18250.0
+returns    0.011019
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-29 16:00:00 Return from bought to now is -0.00273224043715847
 -----------++++-------------
 -----------++++-------------
 SYMBOL          TCB
-close       29000.0
-returns   -0.005159
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-30 16:00:00 Return from bought to now is 0.04693140794223827
+close       29500.0
+returns    0.027493
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-30 16:00:00 Return from bought to now is 0.06498194945848375
 -----------++++-------------
 -----------++++-------------
 SYMBOL          HDB
-close       19050.0
-returns   -0.015625
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-30 16:00:00 Return from bought to now is 0.01871657754010695
+close       18750.0
+returns   -0.002663
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-30 16:00:00 Return from bought to now is 0.00267379679144385
 -----------++++-------------
 -----------++++-------------
-SYMBOL          SHB
-close       11350.0
-returns   -0.013129
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-22 16:00:00 Return from bought to now is 0.11274509803921569
+SYMBOL         SHB
+close      11000.0
+returns   -0.00905
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-22 16:00:00 Return from bought to now is 0.0784313725490196
 -----------++++-------------
 -----------++++-------------
 SYMBOL          SSI
-close       21300.0
-returns   -0.020907
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-10 16:00:00 Return from bought to now is 0.07575757575757576
+close       21500.0
+returns   -0.006953
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-10 16:00:00 Return from bought to now is 0.08585858585858586
 -----------++++-------------
 -----------++++-------------
 SYMBOL          VCI
-close       31450.0
-returns   -0.023567
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-09 16:00:00 Return from bought to now is 0.12321428571428572
+close       31150.0
+returns   -0.014343
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-09 16:00:00 Return from bought to now is 0.1125
 -----------++++-------------
 -----------++++-------------
 SYMBOL          FTS
-close       29300.0
-returns    0.015478
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-14 16:00:00 Return from bought to now is 0.506426735218509
+close       27850.0
+returns   -0.043905
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-14 16:00:00 Return from bought to now is 0.4318766066838046
 -----------++++-------------
 -----------++++-------------
 SYMBOL          HCM
-close       25600.0
-returns   -0.028876
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-23 16:00:00 Return from bought to now is 0.044897959183673466
+close       25350.0
+returns   -0.009814
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-23 16:00:00 Return from bought to now is 0.03469387755102041
 -----------++++-------------
 -----------++++-------------
 SYMBOL          DGW
-close       35700.0
-returns    0.047321
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-04-19 16:00:00 Return from bought to now is 0.0
------------++++-------------
------------++++-------------
-SYMBOL          MWG
-close       40500.0
-returns    0.013673
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-04-11 16:00:00 Return from bought to now is -0.004914004914004914
+close       33900.0
+returns   -0.016094
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-04-19 16:00:00 Return from bought to now is -0.05042016806722689
 -----------++++-------------
 -----------++++-------------
 SYMBOL          HAG
-close        8150.0
-returns    0.022333
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-04-11 16:00:00 Return from bought to now is 0.04219948849104859
+close        7600.0
+returns   -0.037448
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-04-11 16:00:00 Return from bought to now is -0.028132992327365727
 -----------++++-------------
 -----------++++-------------
 SYMBOL          GEG
-close       14800.0
-returns   -0.016751
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-04-04 16:00:00 Return from bought to now is 0.006802721088435374
+close       15350.0
+returns    0.043268
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-04-04 16:00:00 Return from bought to now is 0.04421768707482993
 -----------++++-------------
 -----------++++-------------
 SYMBOL          DXG
-close       12700.0
-returns   -0.027186
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-21 16:00:00 Return from bought to now is 0.09956709956709957
+close       12750.0
+returns    0.007874
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-21 16:00:00 Return from bought to now is 0.1038961038961039
+-----------++++-------------
+-----------++++-------------
+SYMBOL          DIG
+close       16900.0
+returns   -0.011765
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-04-24 16:00:00 Return from bought to now is 0.0
 -----------++++-------------
 -----------++++-------------
 SYMBOL          GEX
-close       12800.0
-returns   -0.019343
-Name: 2023-04-19 09:00:00, dtype: object
-Bought date is 2023-03-29 16:00:00 Return from bought to now is 0.024
+close       12600.0
+returns   -0.007905
+Name: 2023-04-24 09:00:00, dtype: object
+Bought date is 2023-03-29 16:00:00 Return from bought to now is 0.008
 -----------++++-------------
 -----------++++-------------
 SYMBOL          KBC
 close       24300.0
-returns   -0.040328
-Name: 2023-04-19 09:00:00, dtype: object
+returns   -0.008197
+Name: 2023-04-24 09:00:00, dtype: object
 Bought date is 2023-03-28 16:00:00 Return from bought to now is 0.07048458149779736
 -----------++++-------------
 ----------------------------SOLD----------------------------------
 ----------------------------
+SYMBOL          HPG
+close       20650.0
+returns   -0.002418
+Name: 2023-04-24 09:00:00, dtype: object
+----------------------------
+----------------------------
 SYMBOL          NKG
-close       14650.0
-returns   -0.016921
-Name: 2023-04-19 09:00:00, dtype: object
+close       13850.0
+returns   -0.021429
+Name: 2023-04-24 09:00:00, dtype: object
 ----------------------------
 ----------------------------
-SYMBOL          HSG
-close       15300.0
-returns   -0.025808
-Name: 2023-04-19 09:00:00, dtype: object
+SYMBOL         HSG
+close      14600.0
+returns   -0.02369
+Name: 2023-04-24 09:00:00, dtype: object
+----------------------------
+----------------------------
+SYMBOL          ACB
+close       24200.0
+returns   -0.002064
+Name: 2023-04-24 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          TPB
-close       22350.0
-returns   -0.019934
-Name: 2023-04-19 09:00:00, dtype: object
+close       22850.0
+returns    0.013216
+Name: 2023-04-24 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          VND
-close       14900.0
-returns   -0.019934
-Name: 2023-04-19 09:00:00, dtype: object
+close       14950.0
+returns   -0.006667
+Name: 2023-04-24 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          FRT
-close       67600.0
-returns    0.023953
-Name: 2023-04-19 09:00:00, dtype: object
+close       63800.0
+returns   -0.027823
+Name: 2023-04-24 09:00:00, dtype: object
 ----------------------------
 ----------------------------
-SYMBOL          DIG
-close       17000.0
-returns   -0.023257
-Name: 2023-04-19 09:00:00, dtype: object
+SYMBOL          MWG
+close       38400.0
+returns   -0.023167
+Name: 2023-04-24 09:00:00, dtype: object
 ----------------------------
