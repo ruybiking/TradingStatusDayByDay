@@ -1,214 +1,162 @@
 ----------------------------SALE-TO-BUY--------------------------------
-SYMBOL          VIX
-close       16550.0
-returns   -0.069999
-Name: 2023-09-25 09:00:00, dtype: object
+SYMBOL          VND
+close       20650.0
+returns   -0.016807
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------BUY-TO-SALE--------------------------------
-SYMBOL         HPG
-close      26000.0
-returns   -0.04879
-Name: 2023-09-25 09:00:00, dtype: object
-Bought price is 27800.0
-Bought date is 2023-09-05 16:00:00 Return from bought to now is -0.06474820143884892
-SYMBOL          DGW
-close       54000.0
-returns   -0.071459
-Name: 2023-09-25 09:00:00, dtype: object
-Bought price is 48550.0
-Bought date is 2023-08-21 16:00:00 Return from bought to now is 0.11225540679711637
-SYMBOL          MWG
-close       51000.0
-returns   -0.021339
-Name: 2023-09-25 09:00:00, dtype: object
-Bought price is 53800.0
-Bought date is 2023-08-30 16:00:00 Return from bought to now is -0.05204460966542751
-SYMBOL          DGC
-close       91200.0
-returns   -0.071913
-Name: 2023-09-25 09:00:00, dtype: object
-Bought price is 83800.0
-Bought date is 2023-08-28 16:00:00 Return from bought to now is 0.0883054892601432
-SYMBOL          DXG
-close       19300.0
-returns   -0.072441
-Name: 2023-09-25 09:00:00, dtype: object
-Bought price is 11550.0
-Bought date is 2023-03-21 16:00:00 Return from bought to now is 0.670995670995671
-SYMBOL          GEX
-close       20600.0
-returns   -0.070287
-Name: 2023-09-25 09:00:00, dtype: object
-Bought price is 22950.0
-Bought date is 2023-08-28 16:00:00 Return from bought to now is -0.10239651416122005
-SYMBOL          SZC
-close       35950.0
-returns   -0.072418
-Name: 2023-09-25 09:00:00, dtype: object
-Bought price is 37550.0
-Bought date is 2023-08-31 16:00:00 Return from bought to now is -0.0426098535286285
-SYMBOL          BCG
-close       10450.0
-returns   -0.069312
-Name: 2023-09-25 09:00:00, dtype: object
-Bought price is 11250.0
-Bought date is 2023-08-28 16:00:00 Return from bought to now is -0.07111111111111111
-SYMBOL          PDR
-close       22800.0
-returns   -0.071913
-Name: 2023-09-25 09:00:00, dtype: object
-Bought price is 12250.0
-Bought date is 2023-03-15 16:00:00 Return from bought to now is 0.8612244897959184
 ----------------------------BOUGHT----------------------------------
 -----------++++-------------
 SYMBOL          STB
-close       31650.0
-returns   -0.038735
-Name: 2023-09-25 09:00:00, dtype: object
+close       31350.0
+returns   -0.009524
+Name: 2023-09-26 09:00:00, dtype: object
 Bought price is 30050.0
-Bought date is 2023-08-07 16:00:00 Return from bought to now is 0.05324459234608985
+Bought date is 2023-08-07 16:00:00 Return from bought to now is 0.04326123128119801
+-----------++++-------------
+-----------++++-------------
+SYMBOL          VND
+close       20650.0
+returns   -0.016807
+Name: 2023-09-26 09:00:00, dtype: object
+Bought price is 20650.0
+Bought date is 2023-09-26 16:00:00 Return from bought to now is 0.0
 -----------++++-------------
 -----------++++-------------
 SYMBOL          VIX
-close       16550.0
-returns   -0.069999
-Name: 2023-09-25 09:00:00, dtype: object
+close       15700.0
+returns   -0.052725
+Name: 2023-09-26 09:00:00, dtype: object
 Bought price is 16550.0
-Bought date is 2023-09-25 16:00:00 Return from bought to now is 0.0
+Bought date is 2023-09-25 16:00:00 Return from bought to now is -0.0513595166163142
 -----------++++-------------
 -----------++++-------------
 SYMBOL          FRT
-close       86500.0
-returns   -0.028492
-Name: 2023-09-25 09:00:00, dtype: object
+close       83900.0
+returns   -0.030519
+Name: 2023-09-26 09:00:00, dtype: object
 Bought price is 80800.0
-Bought date is 2023-08-28 16:00:00 Return from bought to now is 0.07054455445544554
+Bought date is 2023-08-28 16:00:00 Return from bought to now is 0.038366336633663366
 -----------++++-------------
 -----------++++-------------
 SYMBOL          KBC
-close       31700.0
-returns   -0.070044
-Name: 2023-09-25 09:00:00, dtype: object
+close       31650.0
+returns   -0.001579
+Name: 2023-09-26 09:00:00, dtype: object
 Bought price is 32300.0
-Bought date is 2023-08-28 16:00:00 Return from bought to now is -0.018575851393188854
+Bought date is 2023-08-28 16:00:00 Return from bought to now is -0.020123839009287926
 -----------++++-------------
 ----------------------------SOLD----------------------------------
 ----------------------------
-SYMBOL         HPG
-close      26000.0
-returns   -0.04879
-Name: 2023-09-25 09:00:00, dtype: object
+SYMBOL          HPG
+close       26200.0
+returns    0.007663
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
-SYMBOL          NKG
-close       19400.0
-returns   -0.072081
-Name: 2023-09-25 09:00:00, dtype: object
+SYMBOL         NKG
+close      18850.0
+returns   -0.02876
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          SHB
-close       11000.0
-returns   -0.070204
-Name: 2023-09-25 09:00:00, dtype: object
+close       10800.0
+returns   -0.018349
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          TPB
-close       18000.0
-returns   -0.030098
-Name: 2023-09-25 09:00:00, dtype: object
+close       17700.0
+returns   -0.016807
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
-SYMBOL          SSI
-close       30350.0
-returns   -0.071516
-Name: 2023-09-25 09:00:00, dtype: object
+SYMBOL         SSI
+close      30900.0
+returns    0.01796
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
-SYMBOL          VND
-close       21000.0
-returns   -0.071213
-Name: 2023-09-25 09:00:00, dtype: object
-----------------------------
-----------------------------
-SYMBOL          VCI
-close       40750.0
-returns   -0.072178
-Name: 2023-09-25 09:00:00, dtype: object
+SYMBOL         VCI
+close      40750.0
+returns        0.0
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          FTS
-close       37400.0
-returns   -0.072196
-Name: 2023-09-25 09:00:00, dtype: object
+close       37600.0
+returns    0.005333
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
-SYMBOL          DGW
-close       54000.0
-returns   -0.071459
-Name: 2023-09-25 09:00:00, dtype: object
+SYMBOL         DGW
+close      54000.0
+returns        0.0
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          MWG
-close       51000.0
-returns   -0.021339
-Name: 2023-09-25 09:00:00, dtype: object
+close       51500.0
+returns    0.009756
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
-SYMBOL          HAG
-close        7510.0
-returns   -0.071918
-Name: 2023-09-25 09:00:00, dtype: object
+SYMBOL        HAG
+close      7510.0
+returns       0.0
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          DGC
-close       91200.0
-returns   -0.071913
-Name: 2023-09-25 09:00:00, dtype: object
+close       90500.0
+returns   -0.007705
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          DXG
-close       19300.0
-returns   -0.072441
-Name: 2023-09-25 09:00:00, dtype: object
+close       18050.0
+returns   -0.066959
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          DIG
-close       23850.0
-returns   -0.070808
-Name: 2023-09-25 09:00:00, dtype: object
+close       24500.0
+returns    0.026889
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          GEX
-close       20600.0
-returns   -0.070287
-Name: 2023-09-25 09:00:00, dtype: object
+close       19200.0
+returns   -0.070381
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          SZC
-close       35950.0
-returns   -0.072418
-Name: 2023-09-25 09:00:00, dtype: object
+close       34000.0
+returns   -0.055769
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
-SYMBOL          BCG
-close       10450.0
-returns   -0.069312
-Name: 2023-09-25 09:00:00, dtype: object
+SYMBOL         BCG
+close       9800.0
+returns   -0.06422
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          PDR
-close       22800.0
-returns   -0.071913
-Name: 2023-09-25 09:00:00, dtype: object
+close       21950.0
+returns   -0.037993
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          HDC
-close       31200.0
-returns   -0.071127
-Name: 2023-09-25 09:00:00, dtype: object
+close       29700.0
+returns   -0.049271
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          NLG
-close       33700.0
-returns   -0.071561
-Name: 2023-09-25 09:00:00, dtype: object
+close       32900.0
+returns   -0.024025
+Name: 2023-09-26 09:00:00, dtype: object
 ----------------------------
