@@ -3,152 +3,152 @@
 ----------------------------BOUGHT----------------------------------
 -----------++++-------------
 SYMBOL          FTS
-close       42700.0
-returns   -0.028854
-Name: 2023-10-05 09:00:00, dtype: object
+close       43450.0
+returns    0.017412
+Name: 2023-10-06 09:00:00, dtype: object
 Bought price is 43000.0
-Bought date is 2023-09-28 16:00:00 Return from bought to now is -0.0069767441860465115
+Bought date is 2023-09-28 16:00:00 Return from bought to now is 0.010465116279069767
 -----------++++-------------
 -----------++++-------------
 SYMBOL          FRT
-close       94400.0
-returns   -0.008439
-Name: 2023-10-05 09:00:00, dtype: object
+close       97500.0
+returns    0.032311
+Name: 2023-10-06 09:00:00, dtype: object
 Bought price is 80800.0
-Bought date is 2023-08-28 16:00:00 Return from bought to now is 0.16831683168316833
+Bought date is 2023-08-28 16:00:00 Return from bought to now is 0.20668316831683167
 -----------++++-------------
 -----------++++-------------
-SYMBOL         DGC
-close      93000.0
-returns     -0.016
-Name: 2023-10-05 09:00:00, dtype: object
+SYMBOL          DGC
+close       95000.0
+returns    0.021277
+Name: 2023-10-06 09:00:00, dtype: object
 Bought price is 91000.0
-Bought date is 2023-10-03 16:00:00 Return from bought to now is 0.02197802197802198
+Bought date is 2023-10-03 16:00:00 Return from bought to now is 0.04395604395604396
 -----------++++-------------
 ----------------------------SOLD----------------------------------
 ----------------------------
 SYMBOL          HPG
-close       24900.0
-returns   -0.013958
-Name: 2023-10-05 09:00:00, dtype: object
+close       24950.0
+returns    0.002006
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          NKG
-close       18600.0
-returns   -0.031749
-Name: 2023-10-05 09:00:00, dtype: object
+close       19150.0
+returns    0.029141
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          STB
-close       29900.0
-returns   -0.009983
-Name: 2023-10-05 09:00:00, dtype: object
+close       30950.0
+returns    0.034515
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          SHB
-close       10500.0
-returns   -0.014185
-Name: 2023-10-05 09:00:00, dtype: object
+close       10700.0
+returns    0.018868
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          TPB
-close       16550.0
-returns   -0.003017
-Name: 2023-10-05 09:00:00, dtype: object
+close       16800.0
+returns    0.014993
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          SSI
-close       31650.0
-returns   -0.003155
-Name: 2023-10-05 09:00:00, dtype: object
+close       32950.0
+returns    0.040253
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          VND
-close       19550.0
-returns   -0.040106
-Name: 2023-10-05 09:00:00, dtype: object
+close       20900.0
+returns    0.066774
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          VCI
-close       37900.0
-returns   -0.051425
-Name: 2023-10-05 09:00:00, dtype: object
+close       39000.0
+returns    0.028611
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          VIX
-close       14200.0
-returns   -0.064759
-Name: 2023-10-05 09:00:00, dtype: object
+close       15150.0
+returns    0.064759
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL         DGW
-close      55000.0
-returns   -0.01085
-Name: 2023-10-05 09:00:00, dtype: object
+close      58000.0
+returns    0.05311
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          MWG
-close       47000.0
-returns   -0.045746
-Name: 2023-10-05 09:00:00, dtype: object
+close       48300.0
+returns    0.027284
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL         HAG
-close       8100.0
-returns    0.04805
-Name: 2023-10-05 09:00:00, dtype: object
+close       8200.0
+returns    0.01227
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          DXG
-close       16600.0
-returns   -0.069796
-Name: 2023-10-05 09:00:00, dtype: object
+close       16700.0
+returns    0.006006
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          DIG
-close       21800.0
-returns   -0.070826
-Name: 2023-10-05 09:00:00, dtype: object
+close       22300.0
+returns    0.022677
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          GEX
-close       19800.0
-returns    0.005063
-Name: 2023-10-05 09:00:00, dtype: object
+close       20350.0
+returns    0.027399
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          KBC
-close       30800.0
-returns    0.006515
-Name: 2023-10-05 09:00:00, dtype: object
+close       31650.0
+returns    0.027223
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          SZC
-close       35600.0
-returns    0.022728
-Name: 2023-10-05 09:00:00, dtype: object
+close       36450.0
+returns    0.023596
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          BCG
-close        8900.0
-returns   -0.042887
-Name: 2023-10-05 09:00:00, dtype: object
+close        9000.0
+returns    0.011173
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          PDR
-close       22600.0
-returns   -0.034786
-Name: 2023-10-05 09:00:00, dtype: object
+close       23100.0
+returns    0.021883
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          HDC
-close       29850.0
-returns   -0.001674
-Name: 2023-10-05 09:00:00, dtype: object
+close       31000.0
+returns    0.037802
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
 ----------------------------
 SYMBOL          NLG
-close       32150.0
-returns   -0.033642
-Name: 2023-10-05 09:00:00, dtype: object
+close       32200.0
+returns    0.001554
+Name: 2023-10-06 09:00:00, dtype: object
 ----------------------------
